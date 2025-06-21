@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "exports": {
-    "./org/types": "./src/org.ts"
+    "./types": "./src/*.ts"
   },
   "scripts": {
     "build": "tsc -b",
